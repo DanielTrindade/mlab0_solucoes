@@ -22,6 +22,8 @@
 
 # Executáveis
 */mlab0-ex*-*
+!*/mlab0-ex*-*.c
+!*/mlab0-ex*-*.h
 **/*.exe
 **/*.out
 **/*.app
