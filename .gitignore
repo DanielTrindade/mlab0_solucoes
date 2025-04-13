@@ -1,0 +1,51 @@
+# Arquivos objeto
+*.o
+*.ko
+*.obj
+*.elf
+
+# Arquivos de pré-compilação
+*.gch
+*.pch
+
+# Bibliotecas
+*.lib
+*.a
+*.la
+*.lo
+
+# Arquivos compartilhados/dinâmicos
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executáveis
+*/mlab0-ex*-*
+**/*.exe
+**/*.out
+**/*.app
+**/*.i*86
+**/*.x86_64
+**/*.hex
+
+# Arquivos de depuração
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos de dependência gerados pelo compilador
+**/*.d
+
+# Diretórios gerados pelo compilador
+Debug/
+Release/
+build/
+bin/
+
+# Arquivos específicos de IDEs e editores
+.vscode/
+.idea/
+*.swp
+*~
